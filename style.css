@@ -14,13 +14,11 @@ body {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
 }
 
 .intro-chunk {
   max-width: 415px;
-  padding: 64px 0;
+  padding: 64px 24px;
 }
 
 .title {
@@ -57,7 +55,7 @@ main {
 .card {
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 24px;
+  padding: 24px;
   padding-top: 8px;
   background: #fff;
   border-bottom: 8px solid #999;

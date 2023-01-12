@@ -39,7 +39,7 @@ main {
   border-top: 8px solid #999;
   background: #666;
   padding-top: 64px;
-  padding-bottom: 58px;
+  padding-bottom: 64px;
 }
 
 .indented-heading {
@@ -50,7 +50,6 @@ main {
   margin-left: -32px;
   margin-top: 0;
   margin-bottom: 16px;
-  
 }
 
 .card {
